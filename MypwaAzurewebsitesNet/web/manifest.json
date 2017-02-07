@@ -1,4 +1,5 @@
 {
     "start_url": "http://mypwa.azurewebsites.net/",
-    "short_name": "MypwaAzurewebsitesNet"
+    "short_name": "MypwaAzurewebsitesNet",
+    "start_page": "app.html"
 }
