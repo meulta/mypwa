@@ -1,4 +1,4 @@
 {
-    "start_url": "app.html",
+    "start_url": "./app.html",
     "short_name": "PWA !"
 }
